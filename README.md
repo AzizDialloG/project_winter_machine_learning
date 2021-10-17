@@ -1,1 +1,2 @@
-# project_winter_machine_learning
+# Machine learning and statistics
+### Project Winter 2021-2022 GMIT
